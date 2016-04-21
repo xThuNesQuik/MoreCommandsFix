@@ -1,0 +1,14 @@
+name: MoreCommandsFix
+author: NesQuik
+version: 2.7
+description: Simple Plugin that Adds More Commands to your PocketMine Server!
+main: \MoreCommandsFix\Main
+api: [1.8.0]
+
+commands:
+    spawn:
+        description: "Teleports you to Spawn"
+    hub:
+        description: "Teleports you to the Hub"
+    lobby:
+        description: "Teleports you to the Lobby"
