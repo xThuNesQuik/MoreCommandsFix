@@ -1,0 +1,16 @@
+#MoreCommandsFix v2.7 Config File
+#
+#/Spawn Command
+Spawn-Command-Enabled: true
+#/Spawn Command Message. Use \n for a new line
+Teleport-to-Spawn-Message: "Saliendo..."
+#
+#/Hub Command
+Hub-Command-Enabled: true
+#/Hub Command Message. Use \n for a new line
+Teleport-to-Hub-Message: "Saliendo..."
+#
+#/Lobby Command
+Lobby-Command-Enabled: true
+#/Lobby Command Message. Use \n for a new line
+Teleport-to-Lobby-Message: "Saliendo..."
